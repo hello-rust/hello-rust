@@ -6,4 +6,4 @@ authors = ["Matthias Endler <matthias-endler@gmx.net>"]
 [dependencies]
 rayon = "1.0.2"
 structopt = "0.2.10"
-im = "12.0.0"
+im = "15.1.0"
